@@ -104,18 +104,7 @@ const Footer = () => {
         <StyledGitHubLink href="" target="_blank" rel="nofollow noopener noreferrer">
           <div>Have a great day or night, either works!</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+          
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>

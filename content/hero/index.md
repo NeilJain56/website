@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Neil Jain'
-subtitle: 'I build things for the web.'
-buttonText: 'Get In Touch'
+subtitle: 'I like to innovate.'
+buttonText: 'Email me!'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software engineer based out of North Brunswick, NJ aiming to solve complex problems with innovative solutions.

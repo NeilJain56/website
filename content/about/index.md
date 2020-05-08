@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Java
+  - Python
+  - C
+  - JavaScript
+  - React.js
+  - SQL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Neil, a software engineer based in North Brunswick, NJ.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy creating projects that have a real lasting impact, whether that be websites, applications, or anything in between. My goal is to provide coherent efficient code to whatever project I am working on. (no random variable names!)
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently a student at Rutgers University studying Computer Science and Cognitive Science. I expect to graduate in May 2021 and begin full-time work shortly after.   
 
 Here are a few technologies I've been working with recently:

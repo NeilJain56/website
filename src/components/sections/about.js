@@ -47,6 +47,23 @@ const Skill = styled.li`
     line-height: 12px;
   }
 `;
+const Class = styled.li`
+  position: relative;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  font-family: ${fonts.SFMono};
+  font-size: ${fontSizes.smish};
+  color: ${colors.slate};
+  &:before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: ${colors.green};
+    font-size: ${fontSizes.sm};
+    line-height: 12px;
+  }
+`;
+
 const StyledPic = styled.div`
   position: relative;
   width: 40%;
@@ -72,7 +89,7 @@ const StyledAvatarLink = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: ${colors.white};
   margin-left: -20px;
   &:hover,
   &:focus {
@@ -112,6 +129,15 @@ const StyledAvatarLink = styled.a`
   }
 `;
 
+var classes = ["Intro To Artificial Intelligence", "Mind Machines and Computation", 
+                "Software Methodology",
+                "Computer Algorithms", "Discrete Math 1 and 2", 
+               "Principles of Programming Languages", "Computer Architecture",
+               "Data Structures", "Linear Algebra", "Principles of Information and Database Management",
+
+
+];
+
 const About = ({ data }) => {
   const { frontmatter, html } = data[0].node;
   const { title, skills, avatar } = frontmatter;
@@ -126,6 +152,11 @@ const About = ({ data }) => {
           <div dangerouslySetInnerHTML={{ __html: html }} />
           <SkillsContainer>
             {skills && skills.map((skill, i) => <Skill key={i}>{skill}</Skill>)}
+          </SkillsContainer>
+          <br />
+          Here some are relevant classes I have taken: 
+          <SkillsContainer>
+            {classes && classes.map((classes, i) => <Class key={i}>{classes}</Class>)}
           </SkillsContainer>
         </StyledContent>
         <StyledPic>

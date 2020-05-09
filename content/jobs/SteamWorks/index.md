@@ -7,6 +7,5 @@ range: 'June 2018 - August 2018'
 url: 'https://www.steamworksstudio.com/'
 ---
 
-- Trained and taught courses such as Machine Learning, Advanced Java, and Arduino.
-- Used languages such as Java, Python, Arduino, C, and more to create fun practice projects to teach students of all ages.
-- Created an AI neural network in python to classify whether a picture had a bird or not.
+- Created a curriculum to teach a team of teachers to teach Computer Science fundamentals to childen from ages 5 to 18. 
+- Managed classes and sucessfully taught students classes such as Advanced Java, Introduction to Artificial Intelligence, and Arduino.

@@ -11,4 +11,4 @@ tech:
 showInProjects: false
 ---
 
-This is an encryption and decryption website that takes in a string and does some magic.
+This website allows you to encrypt and decrypt strings which can be used to send secret messages to friends and family! Simply choose which encryption you want to use and then encrypt and decrypt away! 

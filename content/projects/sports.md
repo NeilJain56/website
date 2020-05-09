@@ -1,11 +1,19 @@
 ---
 date: '6'
 title: 'Sports'
-github: '#'
 external: '#'
 tech:
-  - Speical WOrds here
+  - Tennis
+  - Football
+  - Soccer
 showInProjects: true
 ---
 
-THERE WILL BE STUFF IN HERE EVENTUALLY, CURRENTLY TOO LAZY TO TYPE IT ALL OUT
+- <b>Tennis - </b>
+I Have been playing tennis for a good portion of my life. Throughout high school I played every year and was even captian for 2 of the years. My personal favorite tennis player is <b>Gael Monfils.</b>
+
+- <b>Football - </b>
+Being from New Jersey is only fitting that my personal favorite team is the <b>Giants.</b>
+
+- <b>Soccer -  </b>
+I enjoy watching soccer and my favorite team is <b>Bayern Munich.</b> 

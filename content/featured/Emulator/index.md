@@ -10,4 +10,4 @@ tech:
 showInProjects: false
 ---
 
-This project runs the fetch-decode-execute cycle and then does some magic.
+This project implements a C interpretation of the fetch-decode-execute cycle on AT&T Y86 machine instructions to create a functional emulator. (the image to the left is from google, not from my program)

@@ -11,4 +11,4 @@ tech:
 showInProjects: false
 ---
 
-This is a photos app done as an Adroid app and as a desktop application and it does some magic.
+This project helps users store, tag, and search for images. The project is available both as an Android app and as a desktop application. Both were made using Java and come complete with javadocs and coherent modular code. 

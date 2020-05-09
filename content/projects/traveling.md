@@ -1,11 +1,11 @@
 ---
 date: '3'
 title: 'Traveling'
-github: '#'
 external: '#'
 tech:
-  - Speical WOrds here
+  - Travel
+  - Backpacking
 showInProjects: true
 ---
 
-THERE WILL BE STUFF IN HERE EVENTUALLY, CURRENTLY TOO LAZY TO TYPE IT ALL OUT
+I recently found my passion for traveling around the world when I went backpacking across Europe. I went to <b>Amsterdam, Prague and Budapest</b>, all of which were amazing. Should the world ever get back to normal and the airlines get bailed out by the government, I intend to continue traveling the world.

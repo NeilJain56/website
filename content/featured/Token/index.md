@@ -11,4 +11,4 @@ tech:
 showInProjects: false
 ---
 
-A fancy way to pay for your stuff, to use it, put in information and let it do magic.
+Have you ever been ordering at food from an online service with a bunch of friends and run into the issue of having to foot the bill on one card, leaving everyone else to owe money? Token allows you to input several credit cards and charge them differing amounts and get a new vitual card with all the money consolidated.

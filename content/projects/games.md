@@ -1,11 +1,12 @@
 ---
 date: '1'
 title: 'Games'
-github: '#'
 external: '#'
 tech:
-  - Speical WOrds here
+  - Rocket League
+  - Fifa
+  - Smash
 showInProjects: true
 ---
 
-THERE WILL BE STUFF IN HERE EVENTUALLY, CURRENTLY TOO LAZY TO TYPE IT ALL OUT
+Like any teenage boy I also enjoy playing games. The games I play most are,<b> Super Smash Bros. Ultimate, Rocket League, and Fifa.</b>

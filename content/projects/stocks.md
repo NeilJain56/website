@@ -1,11 +1,11 @@
 ---
 date: '8'
 title: 'Stock Trading'
-github: '#'
 external: '#'
 tech:
-  - Speical WOrds here
+  - Stocks
+  - Trading Strategies
 showInProjects: true
 ---
 
-THERE WILL BE STUFF IN HERE EVENTUALLY, CURRENTLY TOO LAZY TO TYPE IT ALL OUT
+Stock trading is a new passion of mine. Although there is a lot of speculation in the market currently due to COVID-19 I like to make my trading decisions based on <b>Fibbonaci Retracement, RSI values, volume, Bollinger Bands and moving averages.</b> Although I do not day trade, I would like to use my computer science skills to build a trading bot eventually. 

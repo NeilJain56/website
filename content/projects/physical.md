@@ -1,11 +1,12 @@
 ---
 date: '7'
 title: 'Physical Training'
-github: '#'
 external: '#'
 tech:
-  - Speical WOrds here
+  - Gym
+  - Chriopracting
 showInProjects: true
 ---
 
-THERE WILL BE STUFF IN HERE EVENTUALLY, CURRENTLY TOO LAZY TO TYPE IT ALL OUT, i think i need this for the format to be correct
+- <b>Gym - </b> Going to the gym is always nice and I attempt to go 4-6 times a week! I focus on weight lifting and honestly do not enjoy cardio. 
+- <b>Chiropracting - </b> This is a real passion of mine, and I spend several hours learning about the science behind it. If I had infinite time, I definitly would get my liscence. 

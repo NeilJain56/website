@@ -11,7 +11,7 @@ showInProjects: true
 
 Music has always been a passion of mine and I have found several different ways to explore that interest!
 - <b>Nothing But Vocals - </b>
-This is my all-male acapella team which competes across the country in the A3 competition circut. Personally, I sing <b>bass</b>!
+This is my all-male acapella team which competes across the country in the A3 competition circuit. Personally, I sing <b>bass</b>!
 - <b>Dance - </b>
 I have been dancing on several teams both competitively and passively since I was 4! I have travelled between countries exploring this interest of mine.
 - <b>Instruments - </b>

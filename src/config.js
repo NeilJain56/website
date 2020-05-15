@@ -4,7 +4,7 @@ module.exports = {
     'I am a software engineer based out of North Brunswick, NJ aiming to solve complex problems with innovative solutions.',
   siteKeywords:
     'Neil Jain, Neil, Jain, neiljain56, software engineer, front-end engineer, web developer, javascript, rutgers',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'http://neiljain56.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'North Brunswick, NJ',
   email: 'neiljain56@gmail.com',
   github: 'https://github.com/NeilJain56',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@neiljain56',
   socialMedia: [
     {
       name: 'GitHub',

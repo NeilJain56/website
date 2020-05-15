@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'I am a software engineer based out of North Brunswick, NJ aiming to solve complex problems with innovative solutions.',
   siteKeywords:
-    'Neil Jain, Neil, Jain, neiljain56, software engineer, front-end engineer, web developer, javascript, rutgers',
+    'Neil Jain, Neil, Jain, neiljain56, software engineer, front-end engineer, web developer, javascript, Rutgers',
   siteUrl: 'http://neiljain56.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',

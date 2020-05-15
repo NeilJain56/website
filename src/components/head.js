@@ -25,33 +25,7 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link rel="shortcut icon" href={favicon} />
-    <link rel="canonical" href="http://neiljain56.com" />
-
-    <meta name="description" content={metadata.description} />
-    <meta name="keywords" content={config.siteKeywords} />
-    <meta name="google-site-verification" content={config.googleVerification} />
     
-    <meta itemProp="name" content={metadata.title} />
-    <meta itemProp="description" content={metadata.description} />
-    
-    <meta name="twitter:url" content="http://neiljain56.com" />
-    
-    <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
-    <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />
-    <link rel="apple-touch-icon" sizes="72x72" href={appleIcon72x72} />
-    <link rel="apple-touch-icon" sizes="76x76" href={appleIcon76x76} />
-    <link rel="apple-touch-icon" sizes="114x114" href={appleIcon114x114} />
-    <link rel="apple-touch-icon" sizes="120x120" href={appleIcon120x120} />
-    <link rel="apple-touch-icon" sizes="144x144" href={appleIcon144x144} />
-    <link rel="apple-touch-icon" sizes="152x152" href={appleIcon152x152} />
-    <link rel="apple-touch-icon" sizes="180x180" href={appleIcon180x180} />
-    <link rel="icon" type="image/png" sizes="192x192" href={androidIcon192x192} />
-    <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} />
-    <link rel="icon" type="image/png" sizes="96x96" href={favicon96x96} />
-    <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} />
-    <meta name="msapplication-TileColor" content={config.colors.navy} />
-    <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
   </Helmet>
 );

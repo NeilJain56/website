@@ -35,7 +35,7 @@ const Head = ({ metadata }) => (
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
     
-  
+    <meta name="twitter:url" content={metadata.siteUrl} />
     
     <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
     <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />

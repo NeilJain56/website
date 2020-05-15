@@ -12,7 +12,7 @@ module.exports = {
   location: 'North Brunswick, NJ',
   email: 'neiljain56@gmail.com',
   github: 'https://github.com/NeilJain56',
-  twitterHandle: '@nj',
+  twitterHandle: 'EOSH',
   socialMedia: [
     {
       name: 'GitHub',

@@ -40,6 +40,11 @@ const Head = ({ metadata }) => (
     <meta property="og:locale" content={config.siteLanguage} />
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
+    <meta property="og:image" content={`${config.siteUrl}${ogImage}`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
+    <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={metadata.siteUrl} />
@@ -47,7 +52,7 @@ const Head = ({ metadata }) => (
     <meta name="twitter:creator" content={config.twitterHandle} />
     <meta name="twitter:title" content={metadata.title} />
     <meta name="twitter:description" content={metadata.description} />
-
+    
     <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
     <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />
     <link rel="apple-touch-icon" sizes="72x72" href={appleIcon72x72} />

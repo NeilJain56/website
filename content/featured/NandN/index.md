@@ -2,7 +2,7 @@
 date: '2'
 title: 'NandN'
 cover: './nandn.PNG'
-github: '#'
+github: 'https://github.com/NeilJain56/NnN'
 external: '#'
 tech:
   - React.js

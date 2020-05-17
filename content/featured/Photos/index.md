@@ -2,8 +2,8 @@
 date: '3'
 title: 'Photos'
 cover: './photosproject.PNG'
-github: '#'
-external: '#'
+github: 'https://github.com/NeilJain56/PhotoApp'
+external: 'https://github.com/NeilJain56/PhotosDesktop'
 tech:
   - Java
   - Android Studio

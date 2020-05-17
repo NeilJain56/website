@@ -2,7 +2,7 @@
 date: '4'
 title: 'Token'
 cover: './token.png'
-github: '#'
+github: 'https://github.com/NeilJain56/Final-Token'
 external: '#'
 tech:
   - React.js

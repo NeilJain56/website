@@ -2,7 +2,7 @@
 date: '5'
 title: 'Colorization'
 cover: './colorization.png'
-github: '#'
+github: 'https://github.com/NeilJain56/Colorization'
 external: '#'
 tech:
   - Python

@@ -2,7 +2,7 @@
 date: '1'
 title: 'Emulator'
 cover: './y86Image.png'
-github: '#'
+github: 'https://github.com/NeilJain56/Emulator'
 external: '#'
 tech:
   - C

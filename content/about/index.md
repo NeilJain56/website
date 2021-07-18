@@ -2,18 +2,15 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - Golang
+  - GCP (Google Cloud Platform)
   - Java
+  - JavaScript (React, Angular, Vue)
   - Python
-  - C
-  - JavaScript
-  - React.js
-  - SQL
+  - Docker/Kubernetes
+  - Git
 ---
 
-Hello! I'm Neil, a software engineer based in North Brunswick, NJ.
-
-Hopefully this doesn't sound tacky, but Computer Science was the perfect major for me. For those who know me well, they know I have a very eclectic range of interests. Luckly, Computer Science is a way for me to connect one major to almost everything I find interesting.
-
-On a more serious note, I am currently a student at Rutgers University studying Computer Science and Cognitive Science. During my undergraduate experience, I have been fortunate enough to have worked in a large variety of areas ranging from large corporations to research at Rutgers. I expect to graduate in May 2021 and begin full-time work shortly after.    
+Hello! I'm Neil, a Software Engineer based in Raleigh, NC. I graduated Summa Cum Laude from Rutgers University - New Brunswick in 2020 with a degree in Computer Science and Cognitive Science. I always had a passion for technology and have put it to the test in the last few years by tackling a wide array of technical problems (pun intended). From teaching Computer Science to do doing research in Artificial Intelligence and Machine Learning, I have been able to hone in and and keep learning. Most recently I have been working for a large techology startup in RTP that has taught me to build large scaleable, secure and cost-effective solutions on Cloud Platforms. Overall, I am excited to see what challenges I will face in the future and what I can learn from them.
 
 Here are a few technologies I've been working with recently:

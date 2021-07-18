@@ -6,7 +6,7 @@ module.exports = {
     'Neil Jain, Neil, Jain, neiljain56, software engineer, front-end engineer, web developer, javascript, Rutgers',
   siteUrl: 'http://neiljain56.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: '1234',
   googleVerification: '',
   name: 'Neil Jain',
   location: 'North Brunswick, NJ',

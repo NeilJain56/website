@@ -5,4 +5,4 @@ subtitle: 'I like to innovate!'
 buttonText: 'Email me!'
 ---
 
-I'm a software engineer based out of Raleigh, NC who wants to leave a lasting impact by building innovative and scalable solutions.
+I'm a security/software engineer who wants to leave a lasting impact by building secure and scalable solutions.

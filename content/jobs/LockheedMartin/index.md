@@ -7,6 +7,6 @@ range: 'June 2019 - August 2019'
 url: 'https://www.lockheedmartin.com/en-us/index.html'
 ---
 
-- Converted the multi-billion dollar "Oasis" project into a modern Maven and Cmake architecture deployed to a Jenkins server cutting down the time to build by over 50%.
-- Collaborated on an Agile team to develop a new GUI builder approach in React.js to aid systems engineers in creating their specs.
-- Participated in the intern project and produced a complete Command and Display system to integrate with Makeblock hardware.
+- Decreased build times by over 25% for the multi-billion dollar "Oasis" project by converting the project to a modern Maven and Cmake architecture on an Agile team.
+- Enabled company systems engineers to build interactive specs to facilitate communication with engineers by developing a GUI builder in React.js.
+- Took initiative on the internship project by leading a team of interns to create a completely functional Command and Display system to integrate with Makeblock hardware.

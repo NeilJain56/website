@@ -1,6 +1,6 @@
 ---
 date: '9'
-title: 'Associate Security Engineer'
+title: 'Security Engineer'
 company: 'Pendo.io'
 location: 'Raleigh, NC'
 range: 'Ocotber 2021 - Present'
